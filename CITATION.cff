@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Written permission is required before reuse; approved use must cite this software."
+title: "Spectral Radius Calculator"
+type: software
+authors:
+  - family-names: "Varun"
+    given-names: "M."
+    affiliation: "CHRIST (Deemed to be University), Bengaluru, India"
+repository-code: "https://github.com/varunastronomy/spectral-radius-calculator"
+abstract: "Convert diskbb and bbodyrad normalizations into apparent and colour-corrected radius diagnostics with propagated uncertainties."
+version: 1.0.0
+date-released: 2026-09-27
